@@ -23,3 +23,8 @@ git checkout bug --> We Checked the new branch bug, like visited.
 git checkout -b feature --> creating branch and switch to it.
  
 # here feature branch created
+
+git branch newname oldname --> to create a new branch
+git push --set-upstream origin branch_name
+
+# This is feature 2.0
