@@ -13,3 +13,5 @@ git status --> all process
 git add filename.format
 git commit -m 'used to comment'
 git log --> for see history of changes
+
+# This is from bug branch
