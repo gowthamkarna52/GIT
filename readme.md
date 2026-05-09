@@ -8,3 +8,8 @@ git config user.email
 # Main (Master)
 
 git config --global init.defaultBranch main
+git init
+git status --> all process
+git add filename.format
+git commit -m 'used to comment'
+git log --> for see history of changes
