@@ -13,6 +13,12 @@ git status --> all process
 git add filename.format
 git commit -m 'used to comment'
 git log --> for see history of changes
+
+# This is from bug branch
+
+git branch new_name old_name.
+
+#second push.
 git checkout c7909c25b906d2cd43c91efa194583fb55ec14d4 --> that hex code to see it. 
 git checkout main --> straight to HEAD. 
 git checkout -f main --> forced checkout --> to see updated content. 
