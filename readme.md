@@ -18,3 +18,20 @@ git log --> for see history of changes
 
 git branch new_name old_name.
 -this is today change
+
+#second push.
+git checkout c7909c25b906d2cd43c91efa194583fb55ec14d4 --> that hex code to see it. 
+git checkout main --> straight to HEAD. 
+git checkout -f main --> forced checkout --> to see updated content. 
+git branch -M main -->  changed from master to main
+
+git branch bug --> bug branch created
+git checkout bug --> We Checked the new branch bug, like visited.
+git checkout -b feature --> creating branch and switch to it.
+ 
+# here feature branch created
+
+git branch newname oldname --> to create a new branch
+git push --set-upstream origin branch_name
+
+# This is feature 2.0
